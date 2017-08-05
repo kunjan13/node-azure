@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-azure",
+  "version": "1.0.0",
+  "description": "first azure app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "azure",
+    "app"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "azure-storage": "2.2.1",
+    "dotenv": "4.0.0",
+    "eslint": "4.3.0"
+  }
+}
